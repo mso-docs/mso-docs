@@ -97,7 +97,7 @@ Welcome to my GitHub! I specialize in creating clear, developer-focused content 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=mso-docs&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mso-docs&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mso-docs&layout=pie)](https://github.com/mso-docs/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mso-docs&layout=pie)
 
 ---
 
