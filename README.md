@@ -4,6 +4,8 @@ Welcome to my GitHub! I specialize in creating clear, developer-focused content 
 ## Who Am I?
 * Senior Technical Writer
 * Docs-as-Code Advocate
+* Junior AI/ML Engineer
+* Aspiring Developer
 * API Documentation Specialist
 * Avid Runner
 
