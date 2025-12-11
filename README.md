@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mackenzie O'Brien  
+# 👋 Hi, I'm Mackenzie O'Brien!  
 Builder. AI tinkerer. Early-career engineer focused on AI tools, agents, MCP, and developer experience.
 
 I spend most of my time building prototypes, experimenting with model evaluation, creating MCP tools, writing automation scripts, and contributing to AI-driven development workflows. I come from a strong documentation background: which means I care deeply about clean code, developer experience, and clear system design.
