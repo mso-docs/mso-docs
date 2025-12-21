@@ -45,7 +45,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack (Under Construction)
 
 ## **Actively Using for AI/Dev**
 <p>
