@@ -45,43 +45,58 @@ I spend most of my time building prototypes, experimenting with model evaluation
 
 ---
 
-# 🛠️ Tech Stack (Under Construction)
+# 🛠️ Tech Stack
 
-## **Actively Using for AI/Dev**
+## **AI / LLM Engineering**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCC624?logo=huggingface&logoColor=black" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?logo=bookstack&logoColor=white" />
+  <img alt="Agents" src="https://img.shields.io/badge/Agents-111111?logo=robotframework&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
   <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?logo=protocol&logoColor=white" />
+  
+**Focus Areas**
+- Fine-tuning & adaptation (LoRA, parameter-efficient training)
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic systems & tool-using models (MCP, structured prompts)
+- Dataset design, evaluation & iteration
+</p>
+
+## **Backend + App Dev**
+<p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
 ## **Developer Tools**
 <p>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-5C2D91?logo=visualstudiocode&logoColor=white" />
-  <img alt="Bruno" src="https://img.shields.io/badge/Bruno-2D2D2D?logo=bruno&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> 
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img alt="Bruno" src="https://img.shields.io/badge/Bruno-2D2D2D" />
 </p>
 
-## **Docs-as-Code & Writing Tools** (supporting skills)
+## **Docs-as-Code**
 <p>
   <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" />
-  <img alt="MkDocs" src="https://img.shields.io/badge/MkDocs-000000?logo=materialformkdocs&logoColor=white" />
-  <img alt="Mintlify" src="https://img.shields.io/badge/Mintlify-171C8F?logo=mintlify&logoColor=white" /> 
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img alt="MkDocs" src="https://img.shields.io/badge/MkDocs-000000?logo=materialformkdocs&logoColor=white" />
   <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-292929?logo=json&logoColor=white" />
 </p>
 
 ---
 
-# 📊 GitHub Stats (Under Construction) 
-![GitHub Streak](https://streak-stats.demolab.com?user=mso-docs&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mso-docs&layout=compact)
+# 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mso-docs&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mso-docs&theme=default)
 
 ---
 
