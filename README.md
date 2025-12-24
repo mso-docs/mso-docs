@@ -63,6 +63,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 - Retrieval-Augmented Generation (RAG) pipelines
 - Agentic systems & tool-using models (MCP, structured prompts)
 - Dataset design, evaluation & iteration
+- More coming soon!
 </p>
 
 ## **Backend + App Dev**
