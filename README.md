@@ -16,7 +16,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 # 🧩 Who Am I?
 - **AI/ML Engineer in training**  
 - **AI/ML Researcher**
-- **MCP tool developer**  
+- **MCP and RAG tool developer**  
 - **Early-career software engineer**
 - **Hobbyist AI/ML Researcher** 
 - **Senior Technical Writer** (supporting skill now, not primary identity)  
