@@ -4,7 +4,7 @@ Builder. AI tinkerer. Early-career engineer focused on AI tools, agents, MCP, tr
 I spend most of my time building prototypes, experimenting with model evaluation, creating MCP tools, writing automation scripts, and contributing to AI-driven development workflows. I come from a strong documentation background, which means I care deeply about clean code, developer experience, and clear system design.
 
 ## 🚀 Today, I’m focused on:
-- 🧠 **AI engineering & model evaluation** (HF evals, LoRA experiments, RAG, data pipelines)  
+- 🧠 **AI engineering & model evaluation** (HF evals, LoRA experiments, RAG, data pipelines, and more)  
 - 🛠️ **MCP development** (custom tools, API wrappers, doc-navigation agents)  
 - 🐍 **Python engineering** (APIs, automation scripts, JWT flows, data utilities)  
 - 🧪 **Building small AI systems from scratch** (tiny transformers, training loops, eval dashboards)  
