@@ -26,7 +26,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 What I'm Working On!
 
 ### **🟣 MCP / AI Tooling**
 - Building custom MCP tools for document navigation, RAG, and code-aware assistants  
