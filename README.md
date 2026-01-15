@@ -38,7 +38,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 - Training and experimenting with small models & LoRAs  
 - Learning transformer internals: tokenization, attention, RoPE, training loops  
 - Implementing tiny transformer models in PyTorch  
-- And more
+- And more!
 
 ### **💻 Software Development**
 - Automating end-to-end API workflows in Python  
