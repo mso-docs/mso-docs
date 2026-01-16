@@ -10,7 +10,7 @@ I spend most of my time building prototypes, experimenting with model evaluation
 - 🐍 **Python engineering** (APIs, automation scripts, JWT flows, data utilities)  
 - 🧪 **Building small AI systems from scratch** (tiny transformers, training loops, eval dashboards)  
 - 📦 **Developer-centric automation** (Bruno, GitHub Actions, CI/CD docs-as-code)  
-- ✍️ …and still writing great docs when the project calls for it!
+- ✍️ …and still writing great docs when the project calls for it!!
 
 ---
 
