@@ -26,7 +26,7 @@ I spend most of my time researching, building prototypes, experimenting with mod
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 What I'm Working On:
 
 ### **🟣 MCP / AI Tooling**
 - Building custom MCP tools for document navigation, RAG, and code-aware assistants  
