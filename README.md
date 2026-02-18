@@ -48,7 +48,7 @@ I spend most of my time researching, building prototypes, experimenting with mod
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack:
 
 ## **AI / LLM Engineering**
 <p>
