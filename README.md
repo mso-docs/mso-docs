@@ -97,7 +97,7 @@ I spend most of my time researching, building prototypes, experimenting with mod
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mso-docs&theme=default)
