@@ -169,18 +169,4 @@ I design and prototype AI-powered systems including RAG pipelines, MCP-based age
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface\&logoColor=000)](https://huggingface.co/mackenzietechdocs)
 
 
-
-
 ---
-
-# 📊 GitHub Stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mso-docs&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mso-docs&theme=default)
-
----
-
-# 🌐 Connect With Me:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mackenzieoc)  [![Portfolio](https://img.shields.io/badge/Portfolio-Online-lightgrey)](https://linktr.ee/mackenzie.techdocs) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/mackenzietechdocs)
