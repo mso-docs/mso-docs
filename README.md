@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Mackenzie O'Brien!
+# 👋 Hello World, I'm Mackenzie O'Brien
 
 AI systems engineer focused on building, evaluating, and integrating intelligent tools into real developer workflows.
 
