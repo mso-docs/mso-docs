@@ -36,6 +36,8 @@ More than **1,000 commits in 2026** across AI engineering, data engineering, res
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=default)
 
+![](https://komarev.com/ghpvc/?username=mso-docs)
+
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/mackenzieoc) | [Portfolio](https://linktr.ee/mackenzie.techdocs) | [Hugging Face](https://huggingface.co/mackenzietechdocs)
