@@ -32,7 +32,7 @@ Build data pipelines, authentication workflows, API integrations, CLI tools, and
 
 ## GitHub activity
 
-More than **1,000 commits in  2025 and 2026** across AI engineering, data engineering, research, and developer tooling.
+More than **1,000 commits in 2026** across AI engineering, data engineering, research, and developer tooling.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=default)
 
