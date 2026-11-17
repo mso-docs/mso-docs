@@ -45,10 +45,6 @@ More than **1,000 commits in 2026** across AI engineering, data engineering, res
 
 ![Profile views](https://komarev.com/ghpvc/?username=mso-docs)
 
-![GitHub contribution summary for mso-docs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mso-docs&theme=github_dark)
-
 ![GitHub streak stats for mso-docs](https://streak-stats.demolab.com/?user=mso-docs&theme=dark)
-
-![GitHub contribution activity graph for mso-docs, last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=mso-docs&theme=react-dark)
 
 </div>
