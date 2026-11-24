@@ -2,6 +2,8 @@
 
 AI safety researcher and builder at Mac Labs AI.
 
+The research lab is [Mac Labs AI](https://github.com/Mac-Labs-AI).
+
 I work on interpretability, unlearning, abstention and epistemics, world models (JEPA-style), and how models behave toward users. A longer list of projects is on my [portfolio](https://mso-docs.github.io/mac-portfolio/).
 
 ## Now
